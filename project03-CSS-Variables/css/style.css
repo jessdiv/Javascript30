@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro');
+
+
+  :root {
+    --base: #e81847;
+    --spacing: 10px;
+    --blur: 10px;
+  }
+  img {
+    padding: var(--spacing);
+    background: var(--base);
+    filter: blur(var(--blur));
+  }
+  .hl {
+    color: var(--base);
+  }
+  /*
+    misc styles, nothing to do with CSS variables
+  */
+  body {
+    text-align: center;
+    background: white;
+    color: #00007f;
+    font-family: 'Anonymous Pro', monospace;
+    font-weight: 80;
+    font-size: 35px;
+  }
+  .controls {
+    margin-bottom: 50px;
+  }
+  input {
+    width: 100px;
+  }

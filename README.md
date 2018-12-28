@@ -9,19 +9,19 @@ Track my progress here:
 
 ##### Project 1: JS Drum-kit
 
-*Notes:* In this project I learned about data attributes, keyCodes and playing audio.
+**Notes:** In this project I learned about data attributes, keyCodes and playing audio.
 
-*Tools:* I was introduced to [this](https://keycode.info/) great site which makes it easy to find the code of any key.
+**Tools:** I was introduced to [this](https://keycode.info/) great site which makes it easy to find the code of any key.
 
-*Demo:* You can see this project [here](https://jessdiv.github.io/Javascript30/project01%20-%20JavaScript%20Drumkit/index-START.html)
+**Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project01-JavaScript-Drumkit/index.html)
 
 ![Project 1](screenshots/project1.png)
 
 ##### Project 2: JS/CSS Clock
 
-*Notes:* This lesson went over getting the time, using cubix-bezier and rotating/transitions in css.
+**Notes:** This lesson went over getting the time, using cubix-bezier and rotating/transitions in css.
 
-*Demo:* You can see this project [here](https://jessdiv.github.io/Javascript30/project01%20-%20JavaScript%20Drumkit/index-START.html)
+**Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project01-JS-CSS-Clock/index.html)
 
 ![Project 2](screenshots/project2.png)
 
@@ -30,10 +30,14 @@ Track my progress here:
 
 ##### Project 3: CSS Variables
 
+**Notes:** I learned CSS variables and data attributes.
+
+**Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project03-CSS-Variables/index.html)
+
+![Project 3](screenshots/project3.png)
+
 ##### Project 4: Array Cardio Day 1
 
-## Day 3: 27th December
+**Notes:** I learned about a bunch of methods used to manipulate arrays- map, filter, sort and reduce.
 
-##### Project 5: Flex Panel Gallery
-
-##### Project 6: Type Ahead
+**Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project04-Array-Cardio-Day-1/index.html)

@@ -21,7 +21,7 @@ Track my progress here:
 
 **Notes:** This lesson went over getting the time, using cubix-bezier and rotating/transitions in css.
 
-**Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project01-JS-CSS-Clock/index.html)
+**Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project02-JS-CSS-Clock/index.html)
 
 ![Project 2](screenshots/project2.png)
 

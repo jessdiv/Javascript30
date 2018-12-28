@@ -41,3 +41,15 @@ Track my progress here:
 **Notes:** I learned about a bunch of methods used to manipulate arrays- map, filter, sort and reduce.
 
 **Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project04-Array-Cardio-Day-1/index.html)
+
+## Day 3: 29th December
+
+##### Project 5: CSS Variables
+
+**Notes:** In this lesson I learned about CSS properties flex and transform. I'd like to look further into flexbox.
+
+**Tools:** Wes recommeded [this](https://flexbox.io/) free course to get more familiar with flex box.
+
+**Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project05-flex-panels-image-gallery/index.html)
+
+![Project 5](screenshots/project5.png)

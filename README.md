@@ -53,3 +53,18 @@ Track my progress here:
 **Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project05-flex-panels-image-gallery/index.html)
 
 ![Project 5](screenshots/project5.png)
+
+##### Project 6: Type Ahead
+
+**Notes:** Biggest take-away from this lesson was the best to tackle projects.
+
+1. Sort out your data.
+2. Figure out the functionality.
+3. Connect to event listeners and html.
+
+I learned about pulling data into your project using ```fetch``` and creating regular expressions using ```RegExp```
+
+
+**Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project06-Type-ahead/index.html)
+
+![Project 6](screenshots/project6.png)

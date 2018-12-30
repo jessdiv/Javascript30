@@ -56,7 +56,7 @@ Track my progress here:
 
 #### Project 6: Type Ahead
 
-**Notes:** Biggest take-away from this lesson was the best to tackle projects.
+**Notes:** Biggest take-away from this lesson was the best way to tackle projects.
 
 1. Sort out your data.
 2. Figure out the functionality.
@@ -76,3 +76,14 @@ I learned about pulling data into your project using ```fetch``` and creating re
 **Notes:** I learned about a the array methods: ```some()```, ```every()```, ```find()```, ```findIndex()```.
 
 **Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project07-Array-Cardio-Day2/index.html)
+
+#### Project 8: Fun with HTML5 Canvas
+
+**Notes:** This was a fun project working with canvas for the first time. I used the event listeners ```mousedown, mousemove, mouseout and mouseup``` and used hsl to control colour.
+
+**Tools:** [This](http://mothereffinghsl.com/) was a great site to look at ```hsl``` (hue, saturation, lightness).
+You can find a great resource to experiment with the ```.globalCompositeOperation ```[here](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/globalCompositeOperation#Syntax)
+
+**Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project08-HTML5-Canvas/index.html)
+
+![Project 8](screenshots/project8.png)

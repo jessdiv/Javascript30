@@ -7,7 +7,7 @@ Track my progress here:
 ## Day 1: 24th December
 
 
-##### Project 1: JS Drum-kit
+#### Project 1: JS Drum-kit
 
 **Notes:** In this project I learned about data attributes, keyCodes and playing audio.
 
@@ -17,7 +17,7 @@ Track my progress here:
 
 ![Project 1](screenshots/project1.png)
 
-##### Project 2: JS/CSS Clock
+#### Project 2: JS/CSS Clock
 
 **Notes:** This lesson went over getting the time, using cubix-bezier and rotating/transitions in css.
 
@@ -28,7 +28,7 @@ Track my progress here:
 
 ## Day 2: 26th December
 
-##### Project 3: CSS Variables
+#### Project 3: CSS Variables
 
 **Notes:** I learned CSS variables and data attributes.
 
@@ -36,7 +36,7 @@ Track my progress here:
 
 ![Project 3](screenshots/project3.png)
 
-##### Project 4: Array Cardio Day 1
+#### Project 4: Array Cardio Day 1
 
 **Notes:** I learned about a bunch of methods used to manipulate arrays- map, filter, sort and reduce.
 
@@ -44,7 +44,7 @@ Track my progress here:
 
 ## Day 3: 29th December
 
-##### Project 5: CSS Variables
+#### Project 5: CSS Variables
 
 **Notes:** In this lesson I learned about CSS properties flex and transform. I'd like to look further into flexbox.
 
@@ -54,7 +54,7 @@ Track my progress here:
 
 ![Project 5](screenshots/project5.png)
 
-##### Project 6: Type Ahead
+#### Project 6: Type Ahead
 
 **Notes:** Biggest take-away from this lesson was the best to tackle projects.
 
@@ -68,3 +68,11 @@ I learned about pulling data into your project using ```fetch``` and creating re
 **Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project06-Type-ahead/index.html)
 
 ![Project 6](screenshots/project6.png)
+
+## Day 4: 30th December
+
+#### Project 7: Array Cardio Day 2
+
+**Notes:** I learned about a the array methods: ```some()```, ```every()```, ```find()```, ```findIndex()```.
+
+**Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project07-Array-Cardio-Day2/index.html)

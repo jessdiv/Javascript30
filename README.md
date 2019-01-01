@@ -87,3 +87,11 @@ You can find a great resource to experiment with the ```.globalCompositeOperatio
 **Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project08-HTML5-Canvas/index.html)
 
 ![Project 8](screenshots/project8.png)
+
+#### Project 9: 14 Must Know Dev Tools & Tricks
+
+**Notes:** In this exercise, I was taught a heap of console tricks I didn't know about. These included:
+``` warn, error, info, assert, clear, dir, group, time, table
+```
+
+**Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project09-dev-tricks/index.html)

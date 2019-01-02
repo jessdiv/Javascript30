@@ -95,3 +95,11 @@ You can find a great resource to experiment with the ```.globalCompositeOperatio
 ```
 
 **Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project09-dev-tricks/index.html)
+
+#### Project 9: Hold shift to check multiple boxes
+
+**Notes:** This project was quite tricky to wrap my head around. No new theory, just a good problem to solve!
+
+**Demo:** You can see this project [here](https://jessdiv.github.io/Javascript30/project10-shift-and-checkboxes/index.html)
+
+![Project 10](screenshots/project10.png)
